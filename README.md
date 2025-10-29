@@ -22,6 +22,8 @@
 	</a>
 </p>
 
+<img src="https://github.com/wylcetal/expense_tracker/blob/main/fondo2.png" alt="GitHub README header image">
+
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
